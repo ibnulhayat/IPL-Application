@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">New IPL</string>
+
+
+    <string name="bannerAdId">ca-app-pub-2622561004536216/6525395965</string>
+
+    <string name="facebook_app_id">936667119864883</string>
+    <string name="fb_login_protocol_scheme">fb936667119864883</string>
+
+
+
+    <string name="fixture">Fixture</string>
+    <string name="news">News</string>
+    <string name="statictics">Statictics</string>
+    <string name="grounds">Grounds</string>
+    <string name="squads">Squads</string>
+    <string name="results">Point Table</string>
+    <string name="go_live">Go Live</string>
+    <string name="live_score">Live Score</string>
+    <string name="live_tv">Live Tv</string>
+    <string name="settings">Settings</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="video">Videos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="pts">Pts</string>
+    <string name="nrr">NRR</string>
+    <string name="lost">L</string>
+    <string name="winn">W</string>
+    <string name="match">M</string>
+
+
+    <string name="c_r">C.R</string>
+    <string name="r_r">R.R</string>
+    <string name="batsman">Batsman</string>
+    <string name="run">R</string>
+    <string name="bol">B</string>
+    <string name="total_4">4s</string>
+    <string name="total_6">6s</string>
+    <string name="strick_rate">SR</string>
+    <string name="star">*</string>
+    <string name="bowler">Bowler</string>
+    <string name="over">O</string>
+    <string name="madin">M</string>
+    <string name="bowler_ran">R</string>
+    <string name="bowler_wiket">W</string>
+    <string name="eco">ECO</string>
+    <string name="bowling">Bowling</string>
+    <string name="fall_of_wicket">Fall of Wicket</string>
+</resources>

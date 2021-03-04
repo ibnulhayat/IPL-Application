@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#370B12</color>
+    <color name="colorPrimaryDark">#370B12</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="transparent">#8F370B12</color>
+    <color name="orange">#F15A24</color>
+    <color name="ashColor">#757575</color>
+    <color name="blue">#1B1464</color>
+    <color name="parpel">#662D91</color>
+
+    <color name="colorTransparentWhite">#C1E0DFDF</color>
+</resources>
